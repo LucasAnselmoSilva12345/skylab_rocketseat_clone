@@ -1,30 +1,21 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# UI Clone - Skylab_Rocketseat
 
-## Getting Started
+<h3>Clone of the Rocketseat platform login interface.</h3>
 
-First, run the development server:
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/190690980@N06/50514752217/in/dateposted-public/" title="WhatsApp Image 2020-10-21 at 19.18.07"><img src="https://live.staticflickr.com/65535/50514752217_edf81e9ede.jpg" width="500" height="282" alt="WhatsApp Image 2020-10-21 at 19.18.07"></a>
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+<h3>Languages ​​used in application development</h3>
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<br/>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<p>NextJS</p>
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+<p>Chakra UI</p>
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/import?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<h4>Contact to see more details of the project:</h4>
+<p align="left">
+<a href="mailto:lucasanselmodasilva02@gmail.com" alt="Gmail">
+<img src="https://img.shields.io/badge/-lucasanselmodasilva02@gmail.com-e34c41?style=flat-square&labelColor=e34c41&logo=gmail&logoColor=white&link=lucasanselmodasilva02@gmail.com" /></a>
+  
+<a href="https://www.linkedin.com/in/lucas-anselmo-moraes-da-silva-543636161/" alt="Linkedin">
+<img src="https://img.shields.io/badge/-Lucas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-anselmo-moraes-da-silva-543636161/" /></a>
